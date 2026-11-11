@@ -1,4 +1,3 @@
-
 # Release Notes & Product Updates
 ## **Medical Imaging Platform: Version 2.1.0**
 
