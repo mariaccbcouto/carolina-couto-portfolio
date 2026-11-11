@@ -7,7 +7,7 @@ Welcome to my technical documentation portfolio. Here you will find selected exa
 
 ### 📂 Documentation Samples
 
-* **[User Manuals & Guides](./user-manuals/)**  
+* **[User Manuals & Guides](samples/Quick_Start_Guide_UG-MED-2026-01.pdf)**  
 * **[Release Notes & Product Specs](samples/release-notes-example.md)**  
 * **[Software Requirements & Specifications](samples/software-requirements_specifications-example.md)**  
 
