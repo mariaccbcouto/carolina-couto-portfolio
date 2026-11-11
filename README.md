@@ -8,11 +8,9 @@ Welcome to my technical documentation portfolio. Here you will find selected exa
 ### 📂 Documentation Samples
 
 * **[User Manuals & Guides](./user-manuals/)**  
-  End-user-focused manuals translating complex software workflows into clear, step-by-step instructions.
-* **[Release Notes & Product Specs](./release-notes/)**  
-  Product lifecycle documentation, changelogs, and functional specifications aligned with Agile acceptance criteria.
-* **[Compliance & ISMS Documentation](./compliance/)**  
-  Standard operating procedures and audit readiness documentation (ISO 27001 and ISO 13485).
+* **[Release Notes & Product Specs](samples/release-notes-example.md)**  
+* **[Software Requirements & Specifications](samples/software-requirements_specifications-example.md)**  
+
 
 ---
 
